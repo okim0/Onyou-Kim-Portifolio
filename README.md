@@ -10,7 +10,7 @@ research methods like interviews, observational research, task analysis, and usa
 • **Church Program Coordination** — informal interviews and group activity observations  
 
 ## Resume
-(Resume PDF link will go here)
+[View Resume](https://github.com/okim0/Onyou-Kim-Portifolio/blob/main/Onyou_Kim_User_Research_Resume.docx.pdf)
 
 ## Contact
 📧 onyoukim0@gmail.com  
