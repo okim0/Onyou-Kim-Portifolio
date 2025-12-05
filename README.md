@@ -6,6 +6,7 @@ research methods like interviews, observational research, task analysis, and usa
 • **Google UX Course Research Exercises** — research planning, user flows, scenario tasks
 
 • **Learning Activity Observations** — designed structured learning activities and analyzed learner behavior  
+
 • **Church Program Coordination** — informal interviews and group activity observations  
 
 ## Resume
