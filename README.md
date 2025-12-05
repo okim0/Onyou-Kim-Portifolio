@@ -12,6 +12,9 @@ research methods like interviews, observational research, task analysis, and usa
 ## Resume
 [View Resume](https://github.com/okim0/Onyou-Kim-Portifolio/blob/main/Onyou_Kim_User_Research_Resume.docx.pdf)
 
+## Portfolio
+[View UX Research Portfolio](https://ontion.notion.site/Onyou-Kim-UX-Research-Portfolio-2c0598b6bf6580af8237f0eec8318e7c?source=copy_link)
+
 ## Contact
 📧 onyoukim0@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/onyou-kim0-
