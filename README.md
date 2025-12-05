@@ -1,5 +1,3 @@
-# Onyou Kim — UX Research Portfolio
-
 Hi! I’m Onyou, a Cognitive Science student at UT Dallas focused on User Research.  
 I’m passionate about understanding user behavior, improving experiences, and applying 
 research methods like interviews, observational research, task analysis, and usability testing.
